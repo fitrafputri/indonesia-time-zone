@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300&family=Rubik&family=Secular+One&display=swap');
+
+body {
+    background-color: #F2F2F2;
+}
+
+/* nav */
+nav {
+    background-color: #0D0D0D;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav a {
+    color: #F2F2F2;
+}
+
+nav img {
+    height: 65px;
+}
+
+/* akhir nav */
+/* jumbotron */
+#jumb1 {
+    /* height: 280px; */
+    background-color: #F2F2F2;
+    color: crimson;
+    text-align: center;
+    /* background-image: url(image/ind.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 690px; */
+
+}
+
+
+#jumb1 h1 {
+    font-weight: bold;
+    /* padding-top: 40px; */
+}
+
+#itzj1 {
+    font-size: 54px;
+}
+
+#jumbotronzona {
+    height: 300px;
+    background-color: #0D0D0D;
+    color: crimson;
+
+}
+
+#jumbotronzona h1 {
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+#jamzona {
+    font-size: 69px;
+}
+
+#datezona {
+    font-size: 40px;
+}
+
+/* akhir jumbotron */
+
+/* halaman awal */
+
+#petaimk {
+    max-width: 100%;
+    height: auto;
+}
+
+#kartu {
+    padding: 20px 0 40px 0;
+}
+
+.card-title {
+    text-align: center;
+    font-size: 50px;
+}
+
+.card-text {
+    text-align: center;
+    font-size: large;
+}
+
+.btn {
+    float: right;
+}
+
+#cardjam1,
+#cardjam2,
+#cardjam3 {
+    background-color: #0D0D0D;
+    color: #F2EDE4;
+}
+
+#cardjam1 i {
+    color: gold;
+}
+
+#cardjam2 i {
+    color: rgb(71, 241, 71);
+}
+
+#cardjam3 i {
+    color: rgb(68, 115, 255);
+}
+
+/*akhir halaman awal */
+
+/* wib wita wit */
+#dftr {
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Rubik', sans-serif;
+}
+
+.card {
+    margin: 20px 0 0 0;
+    background-color: #F2F2F2;
+    color: #0D0D0D;
+    font-size: large;
+    border: 2px solid #0D0D0D;
+}
+
+.badgea {
+    text-align: center;
+    margin-right: 30px;
+    font-size: 16px;
+    font-family: 'Secular One', sans-serif;
+    border-radius: 20px;
+    background-color: #0D0D0D;
+    color: #F2F2F2;
+}
+
+/* akhir wib wita wit */
+
+/* penjelasan */
+#penjelasan {
+    padding: 30px 4px 40px 3px;
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size: larger;
+    text-align: justify;
+}
+
+.imgpnjlsan {
+    border-radius: 20px;
+    height: 210px;
+    width: 268px;
+}
+
+.crdpnj {
+    border: 0px;
+}
+
+/* akhir penjelasan */
+
+/* about */
+#but {
+    text-align: center;
+    margin: 40px 0 40px 0;
+    font-family: 'Rubik', sans-serif;
+}
+
+/* akhit about */
+
+/* footer */
+footer {
+    margin: 20px 0 -30px 0;
+    background-color: #F2F2F2;
+    color: dimgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#logo {
+    height: 65px;
+}
+
+#anggota1,
+#anggota2 {
+    height: 80px;
+    border-radius: 100px;
+}
+
+footer h6 {
+    background-color: black;
+    color: aliceblue;
+}
+
+/* akhir footer */
